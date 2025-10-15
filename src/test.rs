@@ -7,7 +7,7 @@ use ff::Field;
 use std::marker::PhantomData;
 
 #[derive(Clone, Debug)]
-//Circuit Config
+//Circuit Config 111
 pub struct TestConfig {
     // a*b=c를 증명하고 싶음
     // 즉, s(a*b-c) = 0 이라는 걸 만들어서 증명
