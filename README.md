@@ -1,5 +1,3 @@
-![image.png](Halo2%2028b4a288a3be80418e5fc9919aae4ce1/image.png)
-
 ## 1. What is Halo2
 
 > ***Halo2: Trusted Setup이 필요 없는 PLONK 기반의 재귀 증명 시스템***
@@ -495,4 +493,4 @@ mod tests {
 
 **결과**
 
-![image.png](Halo2%2028b4a288a3be80418e5fc9919aae4ce1/image%201.png)
+<img width="1542" height="306" alt="image" src="https://github.com/user-attachments/assets/a9d20d47-c7ed-4a74-849d-927e38c7e9d7" />
